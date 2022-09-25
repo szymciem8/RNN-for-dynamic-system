@@ -44,11 +44,11 @@ class DynamicProcess():
         
         for u in self.u:
             for i in range(len(ts)):
-                us[i] += u.subs(t, ts[i])
+                us[i] += round(u.subs(t, ts[i]), 4)
 
         for y in self.y:
             for i in range(len(ts)):
-                ys[i] += y.subs(t, ts[i])
+                ys[i] += round(y.subs(t, ts[i]), 4)
 
         return ts, us, ys
     
