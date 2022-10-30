@@ -5,3 +5,7 @@
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat&logo=Jupyter)](https://jupyter.org/try)
 
 System that builds a machine learning model which represents given dynamic model.
+
+
+<img src="images/rnn_plot.png" width=475>
+
