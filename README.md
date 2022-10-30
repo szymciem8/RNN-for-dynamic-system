@@ -7,7 +7,7 @@
 System that builds a machine learning model which represents given dynamic model.
 
 Example of a plot of the RNN output based on given input signal.
-<img src="images/rnn_plot.png">
+<img src="images/rnn_plot.png" width=700>
 
 Examples and comparison of different models with the same goal - DNN, CNN and RNN.
-<img src="images/all_models.png" width=600>
+<img src="images/all_models.png" width=700>
